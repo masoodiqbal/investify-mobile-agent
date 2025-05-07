@@ -1,0 +1,11 @@
+PS C:\Users\7510> adb devices
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+List of devices attached
+DEFNW18B29003825        device
+
+PS C:\Users\7510> adb version
+Android Debug Bridge version 1.0.41
+Version 36.0.0-13206524
+Installed as C:\platform-tools\adb.exe
+Running on Windows 10.0.19045
