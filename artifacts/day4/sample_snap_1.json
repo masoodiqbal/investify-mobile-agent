@@ -1,0 +1,172 @@
+[
+  {
+    "index_code": "KSE100",
+    "index_description": "KSE 100 INDEX",
+    "current": "119,649.14",
+    "high": "120,506.2",
+    "low": "119,541.2",
+    "volume": "235.1M",
+    "value": "17.7B",
+    "change": "-312.77 (-0.26%)"
+  },
+  {
+    "index_code": "KSEALL",
+    "index_description": "KSE ALL SHARE INDEX",
+    "current": "74,209.25",
+    "high": "74,699",
+    "low": "74,097.1",
+    "volume": "570.3M",
+    "value": "29B",
+    "change": "-31.27 (-0.04%)"
+  },
+  {
+    "index_code": "KSE30",
+    "index_description": "KSE 30 INDEX",
+    "current": "36,601.18",
+    "high": "36,897.6",
+    "low": "36,568.3",
+    "volume": "83.2M",
+    "value": "12.3B",
+    "change": "-171.83 (-0.47%)"
+  },
+  {
+    "index_code": "KMI30",
+    "index_description": "KMI 30 INDEX",
+    "current": "180,509.05",
+    "high": "182,274.6",
+    "low": "180,313.6",
+    "volume": "141.9M",
+    "value": "12.5B",
+    "change": "-1,118.12 (-0.62%)"
+  },
+  {
+    "index_code": "KMIALL",
+    "index_description": "ALL ISLAMIC SHARES INDEX",
+    "current": "51,415.17",
+    "high": "51,816.5",
+    "low": "51,355.6",
+    "volume": "424.2M",
+    "value": "24.9B",
+    "change": "-103.11 (-0.20%)"
+  },
+  {
+    "index_code": "PSXDIV20",
+    "index_description": "PSX DIVIDEND 20 INDEX",
+    "current": "45,245.84",
+    "high": "45,512.9",
+    "low": "45,089.6",
+    "volume": "56.9M",
+    "value": "5.5B",
+    "change": "+118.72 (0.26%)"
+  },
+  {
+    "index_code": "BKTI",
+    "index_description": "BANKING TRADABLE INDEX",
+    "current": "28,810.65",
+    "high": "29,050.1",
+    "low": "28,585.1",
+    "volume": "11.8M",
+    "value": "2.2B",
+    "change": "+164.80 (0.58%)"
+  },
+  {
+    "index_code": "OGTI",
+    "index_description": "",
+    "current": "27,708.93",
+    "high": "28,149.9",
+    "low": "27,662.4",
+    "volume": "",
+    "value": "",
+    "change": ""
+  },
+  {
+    "index_code": "UPP9",
+    "index_description": "UBL PAKISTAN ENTERPRISE INDEX",
+    "current": "38,933.78",
+    "high": "39,248.2",
+    "low": "38,855.2",
+    "volume": "18.7M",
+    "value": "4.2B",
+    "change": "-61.84 (-0.16%)"
+  },
+  {
+    "index_code": "NITPGI",
+    "index_description": "NIT PAKISTAN GATEWAY INDEX",
+    "current": "29,942.57",
+    "high": "30,180.5",
+    "low": "29,927.7",
+    "volume": "29.6M",
+    "value": "6.3B",
+    "change": "-107.59 (-0.36%)"
+  },
+  {
+    "index_code": "NBPPGI",
+    "index_description": "NBP PAKISTAN GROWTH INDEX",
+    "current": "32,550.23",
+    "high": "32,810.4",
+    "low": "32,520.9",
+    "volume": "32.6M",
+    "value": "7.3B",
+    "change": "-124.19 (-0.38%)"
+  },
+  {
+    "index_code": "MZNPI",
+    "index_description": "MEEZAN PAKISTAN INDEX",
+    "current": "22,051.89",
+    "high": "22,267.4",
+    "low": "22,041",
+    "volume": "37M",
+    "value": "7.2B",
+    "change": "-100.68 (-0.45%)"
+  },
+  {
+    "index_code": "ACI",
+    "index_description": "ALFALAH CONSUMER INDEX",
+    "current": "19,299.87",
+    "high": "19,482.5",
+    "low": "19,276.9",
+    "volume": "61.4M",
+    "value": "5.9B",
+    "change": "-68.46 (-0.35%)"
+  },
+  {
+    "index_code": "JSMFI",
+    "index_description": "JS MOMENTUM FACTOR INDEX",
+    "current": "33,910.77",
+    "high": "34,418.5",
+    "low": "33,864",
+    "volume": "35.3M",
+    "value": "3.4B",
+    "change": "-381.57 (-1.11%)"
+  },
+  {
+    "index_code": "JSGBKTI",
+    "index_description": "JS BANKING SECTOR INDEX",
+    "current": "33,655.81",
+    "high": "33,816.5",
+    "low": "33,452.7",
+    "volume": "11.8M",
+    "value": "2.2B",
+    "change": "+159.76 (0.48%)"
+  },
+  {
+    "index_code": "MII30",
+    "index_description": "",
+    "current": "16,575.67",
+    "high": "16,731.1",
+    "low": "16,555.4",
+    "volume": "",
+    "value": "",
+    "change": ""
+  },
+  {
+    "index_code": "HBLTTI",
+    "index_description": "HBL TOTAL TREASURY INDEX",
+    "current": "16,681.24",
+    "high": "16,681.2",
+    "low": "16,677.6",
+    "volume": "0",
+    "value": "0",
+    "change": "+3.65 (0.02%)"
+  }
+]
